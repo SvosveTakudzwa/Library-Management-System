@@ -1,0 +1,192 @@
+c:\users\takudzwa a svosve\documents\visual studio 2012\Projects\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe.config
+c:\users\takudzwa a svosve\documents\visual studio 2012\Projects\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe
+c:\users\takudzwa a svosve\documents\visual studio 2012\Projects\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.pdb
+c:\users\takudzwa a svosve\documents\visual studio 2012\Projects\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.xml
+c:\users\takudzwa a svosve\documents\visual studio 2012\Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form1.resources
+c:\users\takudzwa a svosve\documents\visual studio 2012\Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Resources.resources
+c:\users\takudzwa a svosve\documents\visual studio 2012\Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.vbproj.GenerateResource.Cache
+c:\users\takudzwa a svosve\documents\visual studio 2012\Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.exe
+c:\users\takudzwa a svosve\documents\visual studio 2012\Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.xml
+c:\users\takudzwa a svosve\documents\visual studio 2012\Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.pdb
+C:\Users\TAKUDZWA A SVOSVE\documents\visual studio 2012\Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form2.resources
+C:\Users\TAKUDZWA A SVOSVE\documents\visual studio 2012\Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form3.resources
+C:\Users\TAKUDZWA A SVOSVE\documents\visual studio 2012\Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form4.resources
+C:\Users\TAKUDZWA A SVOSVE\documents\visual studio 2012\Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form5.resources
+C:\Users\TAKUDZWA A SVOSVE\documents\visual studio 2012\Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form6.resources
+C:\Users\TAKUDZWA A SVOSVE\documents\visual studio 2012\Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form7.resources
+C:\Users\TAKUDZWA A SVOSVE\documents\visual studio 2012\Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form8.resources
+C:\Users\TAKUDZWA A SVOSVE\Documents\Visual Studio 2012\Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form9.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe.config
+C:\Users\TAKUDZWA A SVOSVE\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.exe
+C:\Users\TAKUDZWA A SVOSVE\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.xml
+C:\Users\TAKUDZWA A SVOSVE\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.pdb
+C:\Users\TAKUDZWA A SVOSVE\Desktop\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe
+C:\Users\TAKUDZWA A SVOSVE\Desktop\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.pdb
+C:\Users\TAKUDZWA A SVOSVE\Desktop\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.xml
+C:\Users\TAKUDZWA A SVOSVE\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form1.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form2.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form3.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form4.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form5.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form6.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form7.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form8.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form9.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Resources.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.vbproj.GenerateResource.Cache
+C:\Users\TAKUDZWA A SVOSVE\Documents\Visual Studio 2012\Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form10.resources
+C:\Users\TAKUDZWA A SVOSVE\Documents\Visual Studio 2012\Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form11.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form10.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form11.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\MY FINAL PROJECT WITH DATABASE\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe.config
+C:\Users\TAKUDZWA A SVOSVE\Desktop\MY FINAL PROJECT WITH DATABASE\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.exe
+C:\Users\TAKUDZWA A SVOSVE\Desktop\MY FINAL PROJECT WITH DATABASE\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.xml
+C:\Users\TAKUDZWA A SVOSVE\Desktop\MY FINAL PROJECT WITH DATABASE\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.pdb
+C:\Users\TAKUDZWA A SVOSVE\Documents\Visual Studio 2012\Projects\Library_Management_System\Library_Management_System\bin\Debug\LibraryDb.mdb
+C:\Users\TAKUDZWA A SVOSVE\Desktop\MOCK PROJECT\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe.config
+C:\Users\TAKUDZWA A SVOSVE\Desktop\MOCK PROJECT\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.exe
+C:\Users\TAKUDZWA A SVOSVE\Desktop\MOCK PROJECT\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.xml
+C:\Users\TAKUDZWA A SVOSVE\Desktop\MOCK PROJECT\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.pdb
+C:\Users\TAKUDZWA A SVOSVE\Desktop\MOCK PROJECT\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form1.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\MOCK PROJECT\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form10.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\MOCK PROJECT\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form11.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\MOCK PROJECT\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form2.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\MOCK PROJECT\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form3.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\MOCK PROJECT\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form4.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\MOCK PROJECT\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form5.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\MOCK PROJECT\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form6.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\MOCK PROJECT\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form7.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\MOCK PROJECT\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form8.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\MOCK PROJECT\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form9.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\MOCK PROJECT\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Resources.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\MOCK PROJECT\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.vbproj.GenerateResource.Cache
+C:\Users\TAKUDZWA A SVOSVE\Desktop\MOCK PROJECT\Library_Management_System\Library_Management_System\bin\Debug\LibraryDb.mdb
+C:\Users\TAKUDZWA A SVOSVE\Desktop\MOCK PROJECT\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe
+C:\Users\TAKUDZWA A SVOSVE\Desktop\MOCK PROJECT\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.pdb
+C:\Users\TAKUDZWA A SVOSVE\Desktop\MOCK PROJECT\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.xml
+C:\Users\TAKUDZWA A SVOSVE\Desktop\real\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe.config
+C:\Users\TAKUDZWA A SVOSVE\Desktop\real\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.exe
+C:\Users\TAKUDZWA A SVOSVE\Desktop\real\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.xml
+C:\Users\TAKUDZWA A SVOSVE\Desktop\real\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.pdb
+C:\Users\TAKUDZWA A SVOSVE\Desktop\real\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form1.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\real\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form10.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\real\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form11.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\real\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form2.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\real\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form3.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\real\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form4.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\real\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form5.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\real\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form6.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\real\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form7.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\real\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form8.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\real\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form9.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\real\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Resources.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\real\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.vbproj.GenerateResource.Cache
+C:\Users\TAKUDZWA A SVOSVE\Desktop\real\Library_Management_System\Library_Management_System\bin\Debug\LibraryDb.mdb
+C:\Users\TAKUDZWA A SVOSVE\Desktop\real\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe
+C:\Users\TAKUDZWA A SVOSVE\Desktop\real\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.pdb
+C:\Users\TAKUDZWA A SVOSVE\Desktop\real\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.xml
+E:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe.config
+E:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.exe
+E:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.xml
+E:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.pdb
+E:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\bin\Debug\LibraryDb.mdb
+E:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe
+E:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.pdb
+E:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.xml
+E:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form1.resources
+E:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form10.resources
+E:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form11.resources
+E:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form2.resources
+E:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form3.resources
+E:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form4.resources
+E:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form5.resources
+E:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form6.resources
+E:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form7.resources
+E:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form8.resources
+E:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form9.resources
+E:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Resources.resources
+E:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.vbproj.GenerateResource.Cache
+C:\Users\TAKUDZWA A SVOSVE\Documents\Visual Studio 2012\Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form12.resources
+C:\Users\TAKUDZWA A SVOSVE\Desktop\Library_Management_System\Library_Management_System\bin\Debug\LibraryDb.mdb
+C:\Users\TAKUDZWA A SVOSVE\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form12.resources
+C:\Users\TAKUDZWA A SVOSVE\Documents\Visual Studio 2012\Projects\Library_Management_System\Library_Management_System\bin\Debug\itextsharp.dll
+C:\Users\TAKUDZWA A SVOSVE\Documents\Visual Studio 2012\Projects\Library_Management_System\Library_Management_System\bin\Debug\itextsharp.xml
+C:\Users\TAKUDZWA A SVOSVE\Documents\Visual Studio 2012\Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.vbprojResolveAssemblyReference.cache
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe.config
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.exe
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.xml
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.pdb
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\bin\Debug\LibraryDb.mdb
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.pdb
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.xml
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\bin\Debug\itextsharp.dll
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\bin\Debug\itextsharp.xml
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.vbprojResolveAssemblyReference.cache
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form1.resources
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form10.resources
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form11.resources
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form12.resources
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form2.resources
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form3.resources
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form4.resources
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form5.resources
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form6.resources
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form7.resources
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form8.resources
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form9.resources
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Resources.resources
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.vbproj.GenerateResource.Cache
+C:\Users\Svosve T\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.WelcomeForm.resources
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe.config
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.exe
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.xml
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.pdb
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\bin\Debug\LibraryDb.mdb
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.pdb
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.xml
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\bin\Debug\itextsharp.dll
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\bin\Debug\itextsharp.xml
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.vbprojResolveAssemblyReference.cache
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form1.resources
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form10.resources
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form11.resources
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form12.resources
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form2.resources
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form3.resources
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form4.resources
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form5.resources
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form6.resources
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form7.resources
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form8.resources
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Form9.resources
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Resources.resources
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.WelcomeForm.resources
+D:\Takudzwa A.Svosve\Personal\Miscellaneous Stuff\Projects\MyProjects\Computer Scie Projects\Visual Basic Studio Projects\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.vbproj.GenerateResource.Cache
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\bin\Debug\Library_Management_System.exe.config
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\obj\Debug\Library_Management_System.exe
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\obj\Debug\Library_Management_System.xml
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\obj\Debug\Library_Management_System.pdb
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\bin\Debug\LibraryDb.mdb
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\bin\Debug\Library_Management_System.exe
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\bin\Debug\Library_Management_System.pdb
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\bin\Debug\Library_Management_System.xml
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\bin\Debug\itextsharp.dll
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\bin\Debug\itextsharp.xml
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\obj\Debug\Library_Management_System.vbprojResolveAssemblyReference.cache
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\obj\Debug\Library_Management_System.Form1.resources
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\obj\Debug\Library_Management_System.Form10.resources
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\obj\Debug\Library_Management_System.Form11.resources
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\obj\Debug\Library_Management_System.Form12.resources
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\obj\Debug\Library_Management_System.Form2.resources
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\obj\Debug\Library_Management_System.Form3.resources
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\obj\Debug\Library_Management_System.Form4.resources
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\obj\Debug\Library_Management_System.Form5.resources
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\obj\Debug\Library_Management_System.Form6.resources
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\obj\Debug\Library_Management_System.Form7.resources
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\obj\Debug\Library_Management_System.Form8.resources
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\obj\Debug\Library_Management_System.Form9.resources
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\obj\Debug\Library_Management_System.Resources.resources
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\obj\Debug\Library_Management_System.WelcomeForm.resources
+C:\Users\Takudzwa A Svosve\Desktop\Takudzwa A. Svosve Computer Science Project\Library_Management_System by Takudzwa A. Svosve\Library_Management_System\obj\Debug\Library_Management_System.vbproj.GenerateResource.Cache

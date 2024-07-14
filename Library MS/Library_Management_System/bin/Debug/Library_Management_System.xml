@@ -1,0 +1,200 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Library_Management_System
+</name>
+</assembly>
+<members>
+<member name="P:Library_Management_System.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Library_Management_System.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Library_Management_System.My.Resources.Resources._Places_user_identity">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_Management_System.My.Resources.Resources.Img_Bks">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_Management_System.My.Resources.Resources.itextsharp">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="T:Library_Management_System.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSet.BookInventryTbDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSet.BookIssueTbDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSet.BookReturnTbDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSet.FinePaymentTbDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSet.MemberTbDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSet.StaffTbDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSet.SupplierTbDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSet.UsersTbDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSet.BookInventryTbRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSet.BookIssueTbRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSet.BookReturnTbRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSet.FinePaymentTbRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSet.MemberTbRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSet.StaffTbRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSet.SupplierTbRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSet.UsersTbRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSet.BookInventryTbRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSet.BookIssueTbRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSet.BookReturnTbRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSet.FinePaymentTbRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSet.MemberTbRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSet.StaffTbRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSet.SupplierTbRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSet.UsersTbRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSetTableAdapters.BookInventryTbTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSetTableAdapters.BookIssueTbTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSetTableAdapters.BookReturnTbTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSetTableAdapters.FinePaymentTbTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSetTableAdapters.MemberTbTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSetTableAdapters.StaffTbTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSetTableAdapters.SupplierTbTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSetTableAdapters.UsersTbTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Library_Management_System.LibraryDbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Library_Management_System.LibraryDbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Library_Management_System.LibraryDbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Library_Management_System.LibraryDbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Library_Management_System.LibraryDbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Library_Management_System.LibraryDbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Library_Management_System.LibraryDbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Library_Management_System.LibraryDbDataSetTableAdapters.TableAdapterManager.UpdateAll(Library_Management_System.LibraryDbDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Library_Management_System.LibraryDbDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
